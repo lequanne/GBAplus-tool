@@ -1,7 +1,7 @@
 # Survey Instrument Testing Tool
 ### Canadian GRC Compliance + GBA Plus / ACS+ Intersectional Analysis
 
-A single-file interactive dashboard for survey instrument design, testing, and compliance review — built for Canadian federal and provincial research teams.
+A single-file interactive dashboard for survey instrument design, testing, and compliance review, built for Canadian federal and provincial research teams.
 
 ---
 
