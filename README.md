@@ -19,30 +19,6 @@ A single-file interactive dashboard for survey instrument design, testing, and c
 
 ---
 
-## Deploy to GitHub Pages
-
-### Option A — GitHub web UI (fastest)
-
-1. Go to [github.com/new](https://github.com/new) and create a new **public** repository (e.g. `survey-twin`)
-2. On the repository page, click **Add file → Upload files**
-3. Drag in `index.html` and click **Commit changes**
-4. Go to **Settings → Pages**
-5. Under *Source*, select **Deploy from a branch → main → / (root)** → click **Save**
-6. After ~60 seconds, your site is live at: `https://YOUR-USERNAME.github.io/survey-twin/`
-
-### Option B — Git CLI
-
-```bash
-git init survey-twin && cd survey-twin
-cp /path/to/index.html .
-git add index.html
-git commit -m "Deploy Survey Instrument Testing Twin"
-gh repo create survey-twin --public --push --source .
-# Then enable Pages in Settings → Pages (branch: main, folder: /)
-```
-
----
-
 ## Using the AI analysis feature
 
 The AI analysis panel requires an **Anthropic API key**. Your key is used directly from your browser — it is never stored or sent anywhere except Anthropic's API.
