@@ -60,7 +60,3 @@ All 17 GBA Plus checklist items link to real Canadian government and research so
 | MRIA Code | Marketing Research & Intelligence Association | Survey research |
 | TCPS 2 / EPTC 2 | CIHR · NSERC · SSHRC | Research ethics |
 | OLA / LLO | Office of the Commissioner of Official Languages | Federal institutions |
-
----
-
-*Built with Claude · GBA Plus framework © Women and Gender Equality Canada, 2023*
